@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness trainng services.
@@ -10,5 +10,7 @@ A website that offers fitness trainng services.
 ## Website
 
 
-# Contibution
+## Contibution
 Made with ❤️ by DeRomuald
+
+### ©️2019 Run Buddy, Inc
